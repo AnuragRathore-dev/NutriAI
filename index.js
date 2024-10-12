@@ -1,7 +1,7 @@
 import loadEnv from "./env.js";
 import app from "./app.js";
 import {exec} from 'child_process';
-
+ 
 
 import authRouter from "./src/features/auth/auth.Routes.js";
 import userRouter from "./src/features/user/user.Routes.js";
